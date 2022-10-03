@@ -13,3 +13,4 @@ if  islem == "2":
     sayi1 = int(input("sayi1 giriniz: "))
     sayi2 = int(input("sayi2 giriniz: "))
     print("Sonuç:", sayi1 - sayi2)
+print "program sonu"
